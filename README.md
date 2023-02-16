@@ -23,7 +23,7 @@
 
 <p align="center">
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
@@ -37,6 +37,7 @@
    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+
 
 
 ### ⚙️ &nbsp;GitHub Status
@@ -53,8 +54,9 @@
 
 <p align="center">
 <a href="https://www.mespace.fun"><img src="https://img.shields.io/badge/-mespace.fun-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="miaokeliq@gmail.com"><img src="https://img.shields.io/badge/-miaokeliq@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="1150304664@.com"><img src="https://img.shields.io/badge/-miaokeliq@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@MklZjh1107_-E4405F?style=flat&logo=Wechat&logoColor=white"/></a>
-<a href="https://github.com/miaokeliq"><img src="https://img.shields.io/badge/-@miaokeliq-1877F2?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/eniac555"><img src="https://img.shields.io/badge/-@eniac555-1877F2?style=flat&logo=github&logoColor=white"/></a>
 </p>
+
 
