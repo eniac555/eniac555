@@ -10,9 +10,8 @@
 ### 👨🏻‍💻 &nbsp;关于我
 
 🎓 &nbsp;热衷于探索前端知识～，正在大连理工大学软件工程攻读工程硕士学位.\
-🌱 &nbsp;博客主页：[https://www.mespace.fun](www.mespace.fun).\
-✍️ &nbsp;掘金主页：[https://juejin.cn/user/4253357955616663](https://juejin.cn/user/4253357955616663).\
-💬 &nbsp;微信：MklZjh1107,欢迎学习交流.\
+🌱 &nbsp;博客主页：
+✍️ &nbsp;掘金主页：
 🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力不被辜负.
 
 
@@ -54,9 +53,10 @@
 
 <p align="center">
 <a href="https://www.mespace.fun"><img src="https://img.shields.io/badge/-mespace.fun-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="1150304664@.com"><img src="https://img.shields.io/badge/-miaokeliq@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@MklZjh1107_-E4405F?style=flat&logo=Wechat&logoColor=white"/></a>
+<a href="1150304664@.com"><img src="https://img.shields.io/badge/-1150304664@.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@_uNeBellefille_-E4405F?style=flat&logo=Wechat&logoColor=white"/></a>
 <a href="https://github.com/eniac555"><img src="https://img.shields.io/badge/-@eniac555-1877F2?style=flat&logo=github&logoColor=white"/></a>
 </p>
+
 
 
