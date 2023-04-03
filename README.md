@@ -63,5 +63,6 @@
 
 <div align="center">     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eniac555" /> </div>
 
-<h1 align="center">  <a href="https://sunguoqi.com/">    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fancy seeing you here!&center=true&size=27">  </a> </h1>
+<h1 align="center">    
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fancy seeing you here!&center=true&size=27">  </a> </h1>
 
