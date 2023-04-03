@@ -1,42 +1,41 @@
 <p align="center">
-<h2 height="200px" align="center">Hey there! I'm Ian <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-<h2 align="center">A passionate backend developer from China</h3>
+<h2 height="200px" align="center">Fancy seeing you here!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 align="center">I'm a passionate backend developer from China</h3>
 </p>
 
-<!-- ## 👋 &nbsp;Hey there! I'm ian -->
+<!-- ## 👋 &nbsp;Hey there! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;关于我
 
-🎓 &nbsp;热衷于探索前端知识～，正在大连理工大学软件工程攻读工程硕士学位.\
-🌱 &nbsp;博客主页：.\
-✍️ &nbsp;掘金主页：.\
-🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力不被辜负.\
-
-
-
-
+🎓 &nbsp;热衷于探索后端知识～，正在大连理工大学攻读软件工程硕士学位.\
+🌱 &nbsp;博客主页：[https://blog.csdn.net/IsAmant](https://blog.csdn.net/IsAmant).\
+✍️ &nbsp;github：[https://github.com/eniac555](https://github.com/eniac555).\
+💬 &nbsp;邮箱：gqc115664@gmail.com, 欢迎学习交流.\
+🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力都不被辜负.
 
 ### 🛠 &nbsp;技术栈
 
 <p align="center">
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
+  <img src="https://img.shields.io/badge/-Java-f6da1c?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Maven-46b882?style=flat&logo=Maven&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySql-3C873A?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=1572B6">
 </div>
 <p></p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
-       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+   <img src="https://img.shields.io/badge/-Spring-%232C3A42?style=flat-square&logo=spring">
+     <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
+       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA&logoColor=00C4FF">
 
+
+
+​    
 
 
 ### ⚙️ &nbsp;GitHub Status
@@ -48,15 +47,21 @@
 </p>
 
 
-
 ### 🤝🏻 &nbsp;学习交流
 
 <p align="center">
-<a href="1150304664@.com"><img src="https://img.shields.io/badge/-1150304664@.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@_uNeBellefille_-E4405F?style=flat&logo=Wechat&logoColor=white"/></a>
+<a href="gqc115664@gmail"><img src="https://img.shields.io/badge/-gqc115664@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/eniac555"><img src="https://img.shields.io/badge/-@eniac555-1877F2?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eniac555/count.svg" />
 </p>
 
 
 
+<div align="center">     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eniac555" /> </div>
+
+<h1 align="center">  <a href="https://sunguoqi.com/">    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fancy seeing you here!&center=true&size=27">  </a> </h1>
 
