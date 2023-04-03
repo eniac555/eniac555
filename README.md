@@ -2,7 +2,6 @@
 <h2 height="200px" align="center">Fancy seeing you here!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 <h2 align="center">I'm a passionate backend developer from China</h3>
 </p>
-
 <!-- ## 👋 &nbsp;Hey there! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -63,6 +62,4 @@
 
 <div align="center">     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eniac555" /> </div>
 
-<h1 align="center">    
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fancy seeing you here!&center=true&size=27">  </a> </h1>
 
