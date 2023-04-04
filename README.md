@@ -19,18 +19,20 @@
 <p align="center">
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-f6da1c?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Maven-46b882?style=flat&logo=Maven&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySql-3C873A?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
 </div>
 <p></p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
    <img src="https://img.shields.io/badge/-Spring-%232C3A42?style=flat-square&logo=spring">
      <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
-       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA&logoColor=00C4FF">
+       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=00C4FF">
+
+
 
 
 
