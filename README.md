@@ -28,9 +28,11 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-   <img src="https://img.shields.io/badge/-Spring-%232C3A42?style=flat-square&logo=spring">
+   <img src="https://img.shields.io/badge/-Spring-%232C3A42?style=flat&logo=spring">
      <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
-       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=00C4FF">
+       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white">
+
+
 
 
 
