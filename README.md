@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;关于我
 
-🎓 &nbsp;热衷于探索后端知识～，正在大连理工大学攻读软件工程硕士学位.\
+🎓 &nbsp;探索后端知识～，正在攻读软件工程硕士学位.\
 🌱 &nbsp;博客主页：[https://blog.csdn.net/IsAmant](https://blog.csdn.net/IsAmant).\
 ✍️ &nbsp;github：[https://github.com/eniac555](https://github.com/eniac555).\
 💬 &nbsp;邮箱：gqc115664@gmail.com, 欢迎学习交流.\
@@ -32,13 +32,6 @@
      <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
        <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white">
 
-
-
-
-
-
-
-​    
 
 
 ### ⚙️ &nbsp;GitHub Status
