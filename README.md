@@ -12,7 +12,7 @@
 🌱 &nbsp;博客主页：[https://blog.csdn.net/IsAmant](https://blog.csdn.net/IsAmant).\
 ✍️ &nbsp;github：[https://github.com/eniac555](https://github.com/eniac555).\
 💬 &nbsp;邮箱：gqc115664@gmail.com, 欢迎学习交流.\
-🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力都不被辜负.
+🚀 &nbsp;--------------------------------------------------------------------.
 
 
 
